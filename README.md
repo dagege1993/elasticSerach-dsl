@@ -1,0 +1,2 @@
+# elasticSerach-dsl
+python官方针对elasticsearch操作的库，类似于orm之数据库
